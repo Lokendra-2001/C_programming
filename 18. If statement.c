@@ -2,7 +2,7 @@
 int main()
 {
        int a,b;
-    printf("This is designed by Harendra kumawat");
+    printf("This code designed by LOKENDRA SINGH");
     printf("\nEnter the value of a and b:");
     scanf("%d %d",&a,&b);
     if (a>b)
