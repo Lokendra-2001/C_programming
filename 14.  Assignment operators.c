@@ -4,7 +4,7 @@ int main()
     int a;
     int c;
     //Working of assignment operator
-    printf("This program is designed by Nikhil\n");
+    printf("This program is designed by LOKENDRA\n");
     printf("Enter value of a is");
     scanf("%d",&a);
     c=a; //Value of c is a
@@ -24,3 +24,4 @@ int main()
     
     return 0;
 }
+
